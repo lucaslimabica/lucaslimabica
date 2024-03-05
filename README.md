@@ -6,7 +6,7 @@
 <br>
 <p>🤔 <strong>Who am I?</strong> My name is Lucas de Lima Bica, a nerd, cat enthusiast, brazilian and I live in 📌 Faro, Portugal</p>
 <p>🎓 <strong>What do I do?</strong> I study Software Engineering in Universidade do Algarve</p>
-<p>🦑 <strong>What am I looking for?</strong> To venture into the field of technology with the aim of crafting my projects, narratives, and worldview, as well as developing tools to aid people worldwid</p> 
+<p>🦑 <strong>What am I looking for?</strong> To venture into the field of technology with the aim of crafting my projects, narratives, and worldview, as well as developing tools to aid people worldwide</p> 
 
 <h1>🥷🏻 My Skills</h1>
 <div>
