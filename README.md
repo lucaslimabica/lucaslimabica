@@ -14,10 +14,10 @@ Lorem Ipsum
 
 **Description:** A GUI application built in Python to manage orders, register requests, and interact with an API backend powered by Flask.
 
-### 🛠️ Gesture-Controlled Note Player
+### 🛠️ To-Do
 ![Python](https://img.shields.io/badge/APP-Python-blue?logo=python&logoColor=white)
 
-**Description:** A GUI motion-triggered sounds player application built in Python.
+**Description:** A To-Do list Flet app built in Python fr PC, web and mobile OS.
 
 ### 🛠️ WhatsApp-Pipedrive Integration with AI Sales Analysis
 ![n8n](https://img.shields.io/badge/Workflow-n8n-orange?logo=n8n&logoColor=white)
